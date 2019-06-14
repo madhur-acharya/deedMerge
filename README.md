@@ -1,4 +1,4 @@
-# deedMerge
+# deepMerge
 deep Merge 2 javascript objects together.
 
 this function is similar to object.assign but, leaves the keys which are common among both objects untouched.
